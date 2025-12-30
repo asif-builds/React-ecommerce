@@ -1,7 +1,7 @@
 import { Navbar } from "./Components/Navbar";
 import { Products } from "./Pages/Products";
 import { ProductDetails } from "./Pages/ProductDetails";
-import { Cart } from "./pages/Cart";
+import { Cart } from "./Pages/Cart";
 import { Category } from "./Pages/Category";
 import { Routes, Route, Navigate } from "react-router-dom";
 
