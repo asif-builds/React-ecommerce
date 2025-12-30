@@ -1,5 +1,5 @@
 import { Navbar } from "./Components/Navbar";
-import { Products } from "./pages/Products";
+import { Products } from "./Pages/Products";
 import { ProductDetails } from "./Pages/ProductDetails";
 import { Cart } from "./pages/Cart";
 import { Category } from "./Pages/Category";
