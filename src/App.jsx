@@ -1,6 +1,6 @@
 import { Navbar } from "./Components/Navbar";
 import { Products } from "./pages/Products";
-import { ProductDetails } from "./pages/ProductDetails";
+import { ProductDetails } from "./Pages/ProductDetails";
 import { Cart } from "./pages/Cart";
 import { Category } from "./Pages/Category";
 import { Routes, Route, Navigate } from "react-router-dom";
